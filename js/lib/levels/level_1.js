@@ -6,7 +6,7 @@
         {"type":"door", "x":700,"y":218}
     ]},
     {
-        "type":"tooltip","x":150,"y":641,"width":50,"height":50,
+        "type":"tooltip","x":151,"y":641,"width":50,"height":50,
         "text":"Press the <span class='button left'>left</span> arrow or <span class='button a'>a</span> to move left<br>Press the <span class='button right'>right</span> arrow or <span class='button d'>d</span> to move right"
     },
     {
